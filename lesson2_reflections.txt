@@ -13,6 +13,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Only add all the related files to the staging area when a logical change has been completed. Then commit the changes to the repository afterwards. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
